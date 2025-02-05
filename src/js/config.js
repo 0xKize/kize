@@ -18,7 +18,7 @@ export const CONFIG = {
 	writeAnimationOnTabChange: false, // animationOnTabChange must be true | may cause performance issues
 
 	// blog
-	blogUrl: 'https://data.richardapps.net/blog.xml', // example: '/src/example/blog.xml'
+	blogUrl: '/src/example/blog.xml', // example: '/src/example/blog.xml'
 	useExample: false,
 	writeAnimationOnPostOpen: true,
 	showEstimatedReadTime: true,
