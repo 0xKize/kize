@@ -7,7 +7,7 @@ Featuring a design inspired by old vintage terminals and cyberpunk!
 Now supports themes.
 
 You can view the full website here:
-[richardapps.net](https://richardapps.net)
+[kize.org](https://kize.org)
 
 ## Screenshots
 
